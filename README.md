@@ -25,4 +25,6 @@ Want to run this project on your own machine? Here’s how to get started.
     cd hactoberfest2025
     ```
 
-That's it! You're all set up. You can now browse the projects inside the `/Projects/` folder and start contributing.
+That's it! You're all set up. You can now browse the projects inside the `/Projects/` folder and start contributing. 
+
+Happy Coding
